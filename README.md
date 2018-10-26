@@ -1,6 +1,6 @@
 # domoticaPatronato
 
-##Intro
+## Intro
 Progetto domotico per uso domestico, per accendere e spegnere le luci da remoto.
 Il progetto utilizza un **Raspberry 3B+** e una scheda relè.
 il software utilizzato è **OpenHabian** e **MQTT**(tramite mosquitto). 
@@ -12,7 +12,7 @@ Il primo prototipo funziona, lo sviluppo è concluso, essendo servito per uso di
 attivo mantenimento 
 
 
-##Hardware
+## Hardware
 BOM (Bill of materials):
 * raspberry Pi 3+
 * modulo relè optoisolato, con il numero di canali necessari
@@ -22,7 +22,7 @@ BOM (Bill of materials):
 * un pulsante 6*6 mm
 
 
-##Software
+## Software
 istruzione per l'installazione:
 
 1. installare openHabian, proseguendo da [guida ufficiale](https://www.openhab.org/download/)
