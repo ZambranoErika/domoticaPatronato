@@ -28,8 +28,7 @@ istruzione per l'installazione:
     sudo apt update
      ```
   
-1. nella cartella /etc/openhab2/items/ crea all'interno su nano il tuo file con la estenzione *user.items* indicando i diversi pin ai relè
-1. ti sposti
+1. nella cartella /etc/openhab2/items/ crea all'interno su nano il tuo file con la estenzione *user.items* indicando i diversi pin ai relè come indicato nel sito [ufficiale](https://www.openhab.org/docs/concepts/items.html#item-metadata)
 
 **grassetto**
 
