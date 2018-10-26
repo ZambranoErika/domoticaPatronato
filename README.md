@@ -1,9 +1,16 @@
 # domoticaPatronato
+
+##Intro
 Progetto domotico per uso domestico, per accendere e spegnere le luci da remoto.
 Il progetto utilizza un **Raspberry 3B+** e una scheda relè.
 il software utilizzato è **OpenHabian** e **MQTT**(tramite mosquitto). 
 L'attuazione dell'impianto avviene tramite il servizio cloud di OpenHab, su una paginaweb, oppure tramite la app di openhab
 ![openhab screenshot](https://image.ibb.co/eoFCVq/openHab-screen.png)
+
+### stato del progetto
+Il primo prototipo funziona, lo sviluppo è concluso, essendo servito per uso didattico, all'interno del corso, Digital Tecnology and development.
+attivo mantenimento 
+
 
 ##Hardware
 BOM (Bill of materials):
